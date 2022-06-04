@@ -1,3 +1,5 @@
 sp_password 'admin'
 
 ****MeRdEk****
+
+siang hari nich brooo
