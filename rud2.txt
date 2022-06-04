@@ -4,5 +4,3 @@ sp_password 'admin'
 
 siang hari nich brooo
 cape dech
-
-ini perubahanya dari server
